@@ -1,0 +1,23 @@
+# Target directory (where build artifacts are stored)
+/target/
+
+# IntelliJ IDEA, Rust plugin
+.idea/
+
+# VS Code settings
+.vscode/
+
+# MacOS Finder folder settings
+.DS_Store
+
+# Windows Explorer settings
+Thumbs.db
+
+# Rust package cache
+/.cargo/
+
+# Node.js / npm dependencies if you're using a JS front-end
+node_modules/
+
+# Temporary build files (e.g., for CI tools)
+*.log
